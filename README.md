@@ -1,4 +1,4 @@
-# electionanalysis---updated
+# Colorado-Election-Analysis
 
 ##Project Overview
 Election audit of local congressional election in Colorado conducted in two parts: a candidate analysis and a county analysis
