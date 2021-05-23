@@ -23,6 +23,7 @@ This project is an election audit of local congressional election in Colorado co
 ## Summary
 
 Findings from this analysis show the following:
+
 ![image1](analysis/results_table.png?raw=true "Title")
 
  - There were 369,711 votes in the election. 
