@@ -20,7 +20,7 @@ This project is an election audit of local congressional election in Colorado co
 - Software: Python 3.6.7, Visual Studio Code 1.51.1
 
 ##Summary
-Findings from this analysis show that:
+Findings from this analysis show the following:
  - There were 369,711 votes in the election. 
  - The breakdown of votes by candidate was 23% (85,213) of votes for Charles Casper Stockham, 73.8% (272,892) of votes for Diana DeGette, and 3.1% (11,606) of votes for Raymon Anthony Doane.
  - The breakdown of votes by county was 10.5% (38,555) of votes cast in Jefferson County, 82.8% (306,055) of votes cast in Denver County, and 6.7% (24,801) of votes cast in Arapahoe County.     
