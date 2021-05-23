@@ -1,7 +1,7 @@
 # Colorado-Election-Analysis
 
 ##Project Overview
-Election audit of local congressional election in Colorado conducted in two parts: a candidate analysis and a county analysis
+This project is an election audit of local congressional election in Colorado conducted in two parts: a candidate analysis and a county analysis. Utilizing a dataset consisting of 369,711 votes, I examined trends in regards to the votes won by candidates and voter turnout by county. Via these two analyses, information on how each county's voter turnout influenced the outcomes of the election may be discerned.    
 
 # Part #1: Candidate Analysis
 #First I calculated the total number of votes cast. 
@@ -14,6 +14,7 @@ Election audit of local congressional election in Colorado conducted in two part
 #First I compiled a list of all counties where votes were cast.
 #Following that, I found the total number of votes by county. 
 #Finally, I determined the county that had the largest turnout of voters. 
+
 ##Resources
 - Data Source: election_results.csv
 - Software: Python 3.6.7, Visual Studio Code 1.51.1
