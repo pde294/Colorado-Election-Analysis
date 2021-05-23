@@ -1,6 +1,7 @@
 # Colorado-Election-Analysis
 
 ##Project Overview
+
 This project is an election audit of local congressional election in Colorado conducted in two parts: a candidate analysis and a county analysis. Utilizing a dataset consisting of 369,711 votes, I examined trends in regards to the votes won by candidates and voter turnout by county. Via these two analyses, information on how each county's voter turnout influenced the outcomes of the election may be discerned.    
 
 # Part #1: Candidate Analysis
@@ -20,6 +21,7 @@ This project is an election audit of local congressional election in Colorado co
 - Software: Python 3.6.7, Visual Studio Code 1.51.1
 
 ##Summary
+
 Findings from this analysis show the following:
  - There were 369,711 votes in the election. 
  - The breakdown of votes by candidate was 23% (85,213) of votes for Charles Casper Stockham, 73.8% (272,892) of votes for Diana DeGette, and 3.1% (11,606) of votes for Raymon Anthony Doane.
